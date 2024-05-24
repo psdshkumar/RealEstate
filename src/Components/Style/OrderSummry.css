@@ -1,0 +1,75 @@
+.buy{
+    float: left;
+    padding-left: 300px;
+    margin-top: 50px;
+    padding-bottom: 30px;
+    color: bisque;
+   
+}
+
+.page3{
+    height: 1450px;
+    border: 2px white;
+    background-color: rgb(55, 7, 99);
+    
+}
+
+.title2{
+    padding-top: 100px;
+    color: bisque;
+}
+
+video {
+    height: 500px;
+    width: 900px;
+    padding-top: 30px;
+    border: 3px gold solid;
+    margin-top: 100px;
+}
+
+.text{
+   
+    margin-left: 10px;
+    width: 500px;
+    height: 50px;
+    
+    
+}
+p{
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+
+
+textarea{
+    margin-left: 5px;
+    width: 500px;
+    height: 100px;
+    
+}
+
+
+.hed2{
+    margin-top: 30px;
+    color:bisque;
+    padding-top: 100px;
+}
+
+.submit{
+    width: 100px;
+    height: 30px;
+    background-color: orange;
+    color: rgb(12, 11, 9);
+    border-radius: 5px;
+    
+}
+
+.submit:hover{
+    color: white;
+    background-color: brown;
+}
+
+
+.styl5{
+    color: orange;
+}

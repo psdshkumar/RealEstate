@@ -1,0 +1,253 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(39, 38, 38);
+}
+.image{
+    width: 100%;
+    height: 500px;
+   
+    
+}
+
+.logo{
+    margin-top: 10px;
+    top: 10px;
+    position: relative;
+    width: 200px;
+    height: 100px;
+   float: left;
+   margin-top: 0px;
+   margin-bottom: 20px;
+   margin-left: 10px;
+   border-radius: 20px;
+}
+
+
+label{
+    float: right;
+    
+   
+  
+}
+
+
+
+
+.search-container {
+    display: flex;
+    align-items: center;
+    width: 200px;
+    float: right;
+    margin-right: 50px;
+}
+
+.search-input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 1px;
+    flex: 1;
+    width: 10px;
+    margin-top: 30px;
+}
+
+.search-icon {
+    padding: 8px;
+    background-color: #7a7474;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    cursor: pointer;
+    width: 30px;
+    height: 34px;
+    margin-top: 30px;
+}
+
+
+
+.heading{
+    float: right;
+    padding-top: 10px;
+    padding-left: 100px;
+    margin-bottom: 10px;
+    color: antiquewhite;
+}
+
+.round{
+    height: 150px;
+    width: 150px;
+    display: flex;
+    border: 2px solid black;
+    float: left;
+    padding-left: 3px;
+    margin-left: 80px;
+    background-color: #7a7474;
+    margin-bottom: 50px;
+    box-shadow: 3px 2px black;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.round:hover{
+    background-color: rgb(165, 228, 16);
+}
+
+.Heading2{
+    margin-top: 100px;
+    margin-bottom: 80px;
+    color: antiquewhite;
+   
+}
+
+.Move{
+    height: 100px;
+   
+}
+
+.orange{
+    color: orange;
+}
+.ThirdPage{
+margin-top: 400px;
+height: 1000px;
+background-color: #5b5050;
+padding-left: 50px;
+
+
+}
+
+.ThirdPage h2{
+    color:bisque;
+    margin-bottom: 50px;
+    margin-top: 150px;
+    padding-top: 40px;
+   
+
+}
+
+
+
+.SecondPage{
+    background-image: linear-gradient(rgba(132, 38, 38, 0.667), rgb(87, 87, 83));
+    
+}
+
+.TitleHeading{
+    font-family:"Caveat", cursive;
+    color: rgb(167, 157, 14);
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+}
+
+.blue{
+    
+    animation-name: project;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    text-decoration: underline;
+    font-family: "Varela Round", sans-serif;
+  font-weight: 1000;
+  font-style:oblique;
+
+}
+
+@keyframes project{
+    0% {color: blue;}
+    25%{color:rgb(4, 4, 156);}
+    50%{color: rgb(167, 157, 14)}
+    100%{color: blue;}
+}
+
+
+.box{
+    height: 300px;
+    width: 340px;
+    border: black solid 2px;
+    display: flex;
+    float: left;
+    margin-left: 40px;
+    margin-bottom: 40px;
+    background-color: rgb(19, 206, 50);
+    border-radius: 30px;
+    margin-top: 10px;
+    box-shadow: 3px 2px rgb(55, 54, 54);
+}
+
+.box:hover{
+    background-color: aqua;
+}
+
+
+
+.note1{
+    
+}
+
+.down{
+}
+
+
+.Paint{
+    margin-top: 20px;
+    margin-left: 6px;
+    border-radius: 20px;
+
+}
+
+.consul{
+    margin-top: 20px;
+    margin-left: 22px;
+    border-radius: 20px;
+    height:180px;
+    width:290px ;
+    
+}
+
+.contract{
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 190px;
+    width: 290px;
+    border-radius: 20px;
+
+}
+
+.legal{
+    height: 200px;
+    width: 290px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+}
+
+.management{
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+
+}
+
+.lone{
+    margin-top: 20px;
+    margin-left: 22px;
+    border-radius: 20px;
+    
+
+}
+
+.lastpage{
+    color: bisque;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: 350px;
+   
+    background-color: #9dd6a8;
+}
+
+.styl{
+    color:orange;
+}

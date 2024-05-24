@@ -1,0 +1,73 @@
+.box2{
+    width: 900px;
+    height: 550px;
+    border: 3px white solid;
+    margin-left: 200px;
+    background-color: rgb(93, 179, 31);
+
+}
+
+.box3{
+    width: 300px;
+    float: left;
+    border:3px rgb(185, 18, 18) solid; 
+    margin-left: 850px;
+    height: 500px;
+    color: wheat;
+   
+
+}
+
+
+.title{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    color:bisque;
+}
+.sty3{
+    color: orange;
+}
+
+.flat1{
+    margin-top: 5px;
+    border: 2px gold solid;
+    width: 700px;
+    height: 350px;
+}
+
+.flat6{
+    margin-top: 5px;
+    border: 2px gold solid;
+    height: 300px;
+    width: 700px;
+}
+
+.head1{
+    margin-top: 10px;
+    color: rgb(79, 67, 6);
+    margin-bottom: 5px;
+    padding-bottom: 10px;
+   
+}
+
+.tale1{
+    margin-top: 10px;
+    color: rgb(9, 63, 6);
+    margin-bottom: 5px;
+    padding-bottom: 10px;
+   
+}
+
+.shortlist{
+    background-color: orange;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+
+
+}
+
+.Next{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}

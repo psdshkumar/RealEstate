@@ -1,0 +1,23 @@
+.submit1{
+    height: 800px;
+    width: 100%;
+    background-color: rgb(222, 200, 239);
+    border: 10px gold solid;
+}
+
+
+.check{
+    height: 100px;
+    width: 100px;
+    margin-top: 200px;
+    border-radius: 50%;
+}
+
+.Home1{
+    height: 50px;
+    width: 200px;
+   margin-top: 50px;
+   color: brown;
+   background-color: orange;
+   border-radius: 30px;
+}

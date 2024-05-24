@@ -1,0 +1,43 @@
+.image-slider{
+    width: 100px;
+    height: 100px;
+    display: inline;
+    border: 2px brown;
+    margin-left: 100px;
+    padding-right: 100px;
+    
+    
+}
+
+.image1{
+    width: 200px;
+    margin-top: 50px;
+    height: 150px;
+    border: 2px solid black;
+    box-shadow:  3px 2px rgb(48, 45, 45);
+    border-radius: 20px;
+
+    
+}
+
+.image2{width: 200px;
+    margin-top: 50px;
+    height: 150px;
+    border: 2px solid black;
+    box-shadow:  3px 2px rgb(48, 45, 45);
+    border-radius: 20px;
+   
+   
+    
+}
+
+.image-slider2{
+    width: 100px;
+    height: 100px;
+    display: inline;
+    border: 2px brown;
+    margin-left: 60px;
+    padding-right: 20px;
+    
+
+}
